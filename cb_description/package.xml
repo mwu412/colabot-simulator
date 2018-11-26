@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package>
-  <name>racecar_description</name>
+  <name>cb_description</name>
   <version>0.0.0</version>
-  <description>The racecar_description package</description>
+  <description>The colabot_description package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
   <!-- Example:  -->
